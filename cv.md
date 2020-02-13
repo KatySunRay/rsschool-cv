@@ -2,37 +2,38 @@
 
 ---
 
-**Telephone number:** +380951234567
-**E-mail:** katy.email@gmail.com
-**LinkedIn profile:** http://www.linkedin.com/
-**github** KatySunRay
-**English:** upper-intermediate (B2).
+**E-mail:** katysaunray@gmail.com  
+**GitHub:** KatySunRay  
+**Telegram:** @runawayprincess
 
 ---
 
-## Summary of Qualifications
+## Summary
 
-Start programming in 2005. Novice frontend-developer with technical education. Confident knowledge of HTML, CSS/SCSS, JavaScript, React, Redux.
-
----
-
-**Technical Skills**
-**Programming languages and technologies:** JavaScript, HTML, CSS/SCSS
-**Programming practices:** Agile, Kanban, Code review
-**Frameworks and Libraries:** React, Redux, lodash, bootstrap
-**Tools:** GIT, Webpack, VS Code, Webstorm
-**Other skills:** video & audio editing, video encoding, youtube streaming
+My goal is to become a good Frontend developer.  
+Learning takes up most of my time.  
+I like semantic and beautiful sites.
 
 ---
 
-**Professional Experience**
-**Freelance**, 03.2019 – now
+## Skills
 
-**Community Lab**, 03.2019 – now
-Position: **Frontend-developer**
-**Responsibilities included:**
+**Programming languages and technologies:** HTML, CSS, JavaScript  
+**Tools:** GIT, VS Code, Photoshop, Zeplin/Avacode
 
-- estimations
-- implement features
-- refactorings
-- backlog grooming
+---
+
+## Experience
+
+Start programming in 2019 :)
+
+## Education
+
+- Higher education
+- HTMLacademy (courses and lectures);
+- YouTube courses;
+- Google.
+
+## English
+
+Upper-intermediate (B2).
