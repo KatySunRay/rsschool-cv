@@ -4,7 +4,7 @@
 
 **Telephone number:** +380951234567
 **E-mail:** katy.email@gmail.com
-**LinkedIn profile:** http://www.linkedin.com/profile/view?id=207602264
+**LinkedIn profile:** http://www.linkedin.com/
 **github** KatySunRay
 **English:** upper-intermediate (B2).
 
